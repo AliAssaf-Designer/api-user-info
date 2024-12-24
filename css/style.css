@@ -55,9 +55,10 @@ img{
 }
 .moreInfo{
     width: 0;
-    height: 65vh;
+    height: 68vh;
     display: flex;
     transition-duration: 1s;
+    margin-bottom: 20px;
     & div{
         width: 50%;
         background-color: #c0c0c4;
